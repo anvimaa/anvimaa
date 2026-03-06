@@ -41,7 +41,7 @@ C# • VB.NET • Python • SQL • REST & GraphQL APIs • Docker • Git • 
 
 ## 🚀 Featured Projects
 
-### 🧾 [FactFlex](https://fact-flex.onrender.com/)
+### 🧾 [FactFlex](https://www.factflexi.com/)
 **Smart Invoicing System** — A fast, intuitive billing platform built for small and medium-sized businesses.  
 Features include automatic **SAFT file generation**, **invoice sending via WhatsApp**, and **financial dashboards**.  
 **Tech Stack:** TypeScript, SvelteKit, Prisma ORM, TailwindCSS, Node.js  
