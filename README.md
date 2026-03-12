@@ -12,7 +12,7 @@ I'm a Computer Engineer with a strong background in **software architecture**, *
 I believe technology should simplify lives and expand opportunities — and I code every project with that philosophy in mind.  
 
 - 🌍 Based in Angola, developing for a global audience  
-- 💼 Founder of **AMANTENTE SOFT**, building intelligent ERP and business management tools  
+- 💼 Founder of **AMANTENTE SOFT - COMERCIO & SERVIÇOS, LDA, NIF 5002097788**, building intelligent ERP and business management tools  
 - ⚙️ Experienced in full-cycle software development — from backend logic to frontend UX  
 - 🚀 Always exploring automation, machine learning, and next-gen software frameworks  
 
@@ -41,10 +41,23 @@ C# • VB.NET • Python • SQL • REST & GraphQL APIs • Docker • Git • 
 
 ## 🚀 Featured Projects
 
-### 🧾 [FactFlex](https://www.factflexi.com/)
-**Smart Invoicing System** — A fast, intuitive billing platform built for small and medium-sized businesses.  
-Features include automatic **SAFT file generation**, **invoice sending via WhatsApp**, and **financial dashboards**.  
-**Tech Stack:** TypeScript, SvelteKit, Prisma ORM, TailwindCSS, Node.js  
+### 🧾 [FactFlexi](https://www.factflexi.com/)
+**FACT FLEXI — Smart Electronic Invoicing System**
+A fast and intuitive **electronic invoicing and business management platform** designed for small and medium-sized businesses. FACT FLEXI simplifies billing, financial tracking and fiscal compliance through a modern and reliable system.
+
+The platform supports **electronic invoicing in compliance with the AGT requirements** and is officially certified under **License FE/183/AGT/2026**.
+
+**Key Features**
+
+* Electronic invoice issuance (FR/FT, receipts, credit notes)
+* Automatic **SAFT file generation**
+* **Invoice sharing via WhatsApp**
+* Customer, product and sales management
+* Financial dashboards and reports
+* Secure and scalable SaaS architecture
+
+**Tech Stack**
+TypeScript • SvelteKit • Prisma ORM • TailwindCSS • Node.js
 
 ---
 
