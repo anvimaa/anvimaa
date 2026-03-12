@@ -81,6 +81,7 @@ Focused on scalability, automation, and user experience.
 |------|----------------|-------------|
 | 2025 | **Lead Engineer – RamaGlobal Group** | Building an integrated ecosystem of business management software. |
 | 2024 | **Lead Developer – FactFlex** | Designed and developed a full SaaS invoicing system from scratch. |
+| 2024 | **Fundation of AMANTENTE SOFT** | Founder of **AMANTENTE SOFT - COMERCIO & SERVIÇOS, LDA, NIF 5002097788**, building intelligent ERP and business management tools |
 | 2023 | **Software Engineer – Transgest** | Led backend and real-time tracking modules. |
 | 2018–present | **Independent Developer** | Built automation tools and web systems for SMEs and startups. |
 
